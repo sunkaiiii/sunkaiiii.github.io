@@ -14276,7 +14276,7 @@ s=new E.aY(new Float64Array(16))
 s.b1(a)
 s.jy(s)
 return T.kM(s,b)},
-afA(a){var s="https://heritage.duckylife.net:8443/img/"
+afA(a){var s="https://www.duckylife.net/img/"
 if(!C.b.A(a,s))return s+a
 else return a}},U={LL:function LL(a,b,c,d,e){var _=this
 _.xH$=a
@@ -51421,7 +51421,7 @@ rw(){var s=0,r=P.Y(t.z),q=this,p
 var $async$rw=P.T(function(a,b){if(a===1)return P.U(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return P.aa(G.abE(P.jC("https://heritage.duckylife.net:8443/api/HeritageProject/GetMainPage")),$async$rw)
+return P.aa(G.abE(P.jC("https://www.duckylife.net/api/HeritageProject/GetMainPage")),$async$rw)
 case 2:q.aH(new p.On(q,b))
 return P.V(null,r)}})
 return P.W($async$rw,r)}}
@@ -51440,7 +51440,7 @@ var $async$nX=P.T(function(b,c){if(b===1)return P.U(c,r)
 while(true)switch(s){case 0:q.f=!0
 p=A
 s=2
-return P.aa(G.abE(P.jC("https://heritage.duckylife.net:8443/api/HeritageProject/GetHeritageProjectList/"+a)),$async$nX)
+return P.aa(G.abE(P.jC("https://www.duckylife.net/api/HeritageProject/GetHeritageProjectList/"+a)),$async$nX)
 case 2:q.aH(new p.Oi(q,c))
 return P.V(null,r)}})
 return P.W($async$nX,r)},
@@ -51683,7 +51683,7 @@ M.A7.prototype={
 P(a,b){var s=null
 return M.dr(s,E.a8D(B.a8m(new M.R9(this),this.c.e.length),new M.Ra(this)),s,s,s,C.wE)},
 hX(a){var s,r=null,q=this.c.e[a]
-if(q.a==="img")return U.P2("https://heritage.duckylife.net:8443/img/"+H.d(q.c),C.hr,r,r)
+if(q.a==="img")return U.P2("https://www.duckylife.net/img/"+H.d(q.c),C.hr,r,r)
 else{s=q.b
 return L.e6(s==null?"":s,r,r,r,r,r)}}}
 M.Ra.prototype={
@@ -51768,7 +51768,7 @@ S.zP.prototype={
 P(a,b){return this.Vk(b)},
 Vk(a){return B.a4y(new S.Qj(this),$.a3v().a.oL(),t.iT)},
 Vl(a){var s,r=H.b([],t.D)
-for(s=J.aD(a);s.p();)r.push(U.P2("https://heritage.duckylife.net:8443/img/"+s.gv(s).d,C.ht,null,null))
+for(s=J.aD(a);s.p();)r.push(U.P2("https://www.duckylife.net/img/"+s.gv(s).d,C.ht,null,null))
 return r}}
 S.Qj.prototype={
 $2(a,b){var s,r,q
@@ -51799,7 +51799,7 @@ B.A8.prototype={
 P(a,b){var s=null,r=t.D,q=H.b([],r),p=this.c
 q.push(new T.my(1,C.eP,T.pL(H.b([C.Dm,L.e6(p.c,s,s,C.De,s,s),L.e6(p.e,s,s,C.Dd,s,s)],r),C.bp,C.aZ),s))
 r=p.r
-if(r!=null)q.push(M.dr(s,U.P2("https://heritage.duckylife.net:8443/img/"+r,C.hs,84,84),s,s,s,C.wC))
+if(r!=null)q.push(M.dr(s,U.P2("https://www.duckylife.net/img/"+r,C.hs,84,84),s,s,s,C.wC))
 return M.dr(s,D.yZ(s,M.dr(s,T.a5k(q,C.bq,C.fo,C.dL),C.E,s,s,C.wF),!1,s,s,s,s,new B.Ri(this),s,s,s),C.vU,s,s,C.wI)}}
 B.Ri.prototype={
 $0(){var s=this.a
@@ -56887,7 +56887,7 @@ s($,"amM","a3v",function(){var q=new U.LL(null,new L.zm(H.b([],H.aj("t<mN>")),ne
 q.xH$=p
 q.xI$=new B.Kb(H.b([],H.aj("t<fO>")))
 q=new N.Yo(q)
-q.b="https://heritage.duckylife.net:8443"
+q.b="https://www.duckylife.net"
 return new T.BH(q)})
 s($,"am2","acg",function(){return P.bx("^[\\w!#%&'*+\\-.^`|~]+$",!0)})
 s($,"anU","ad8",function(){return P.bx('["\\x00-\\x1F\\x7F]',!0)})
