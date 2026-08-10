@@ -1,1 +1,0 @@
-import{i as e}from"./pro-pages-BcRBYpdy.js";var t=e;export{t as component};
