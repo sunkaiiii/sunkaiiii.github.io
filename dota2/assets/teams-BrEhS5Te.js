@@ -1,1 +1,0 @@
-import{u as e}from"./pro-pages-Nq6bcUi2.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{i as e}from"./pro-pages-0EtJ_W1W.js";var t=e;export{t as component};

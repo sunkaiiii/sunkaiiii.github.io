@@ -1,0 +1,1 @@
+import{D as e}from"./index-BpI_OXBX.js";var t=e;export{t as component};
