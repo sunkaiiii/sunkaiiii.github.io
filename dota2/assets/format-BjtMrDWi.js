@@ -1,0 +1,1 @@
+function e(e,t=1){return e==null?`—`:`${(e*100).toFixed(t)}%`}function t(e){return e==null?`—`:`${Math.round(e*100)}%`}function n(t){return e(t,1)}function r(e,t=1){return e==null?`—`:e.toFixed(t)}function i(e){if(e==null)return`—`;let t=Math.floor(e/60),n=e%60;return`${t}:${String(n).padStart(2,`0`)}`}export{r as a,e as i,n,t as r,i as t};

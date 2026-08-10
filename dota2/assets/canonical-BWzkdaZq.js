@@ -1,0 +1,1 @@
+var e=/^[a-z0-9_-]+$/,t=/-/g;function n(t){return t.length>=1&&t.length<=64&&e.test(t)}function r(){return`personal-${crypto.randomUUID().replace(t,``)}`}function i(e){return e.trim().replace(/-/g,`_`)}export{r as n,n as r,i as t};
