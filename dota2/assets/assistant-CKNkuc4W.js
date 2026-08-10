@@ -1,0 +1,1 @@
+import{t as e}from"./draft-assistant-page-DnAkJsSx.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{r as e}from"./pro-pages-CPjavj5D.js";var t=e;export{t as component};
