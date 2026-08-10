@@ -1,0 +1,1 @@
+import{n as e}from"./draft-assistant-page-D8mmaKPt.js";var t=e;export{t as component};

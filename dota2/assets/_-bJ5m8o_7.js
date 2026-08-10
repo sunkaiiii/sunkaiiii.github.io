@@ -1,1 +1,0 @@
-import{L as e}from"./index-Cfec-xjx.js";var t=e;export{t as component};

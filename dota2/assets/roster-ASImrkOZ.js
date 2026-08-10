@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";import{Pt as t,z as n}from"./index-Cfec-xjx.js";import{c as r}from"./pro-pages-CPjavj5D.js";var i=e();function a(){let{teamId:e}=t({from:`/pro/teams/$teamId`}),a=Number(e);return Number.isSafeInteger(a)&&a>0?(0,i.jsx)(r,{teamId:a}):(0,i.jsx)(n,{error:Error(`战队 ID 必须为正整数`)})}export{a as component};
