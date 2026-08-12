@@ -1,0 +1,1 @@
+import{r as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./react-DHmoMYoq.js";import{o as n,s as r}from"./query-keys-K8fdYRpa.js";var i=e(t(),1);function a(){let[e,t]=(0,i.useState)(void 0);return(0,i.useEffect)(()=>{let e=!1;return Promise.resolve().then(()=>r()).then(e=>e===null?null:n(e)).then(n=>{e||t(n)}).catch(()=>{e||t(null)}),()=>{e=!0}},[]),e}export{a as t};
