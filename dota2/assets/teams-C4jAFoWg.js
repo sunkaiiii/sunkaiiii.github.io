@@ -1,1 +1,0 @@
-import{u as e}from"./pro-pages-uO16si5a.js";var t=e;export{t as component};
