@@ -1,0 +1,1 @@
+import{a as e}from"./pro-pages-MTuOlytN.js";import{Er as t,in as n,jr as r,n as i}from"./index-CXJA0phA.js";var a=r();function o(){let{teamId:r}=t({from:`/pro/teams/$teamId`}),o=i.useSearch(),s=Number(r);return Number.isSafeInteger(s)&&s>0?(0,a.jsx)(e,{teamId:s,limit:o.limit??50}):(0,a.jsx)(n,{error:Error(`战队 ID 必须为正整数`)})}export{o as component};

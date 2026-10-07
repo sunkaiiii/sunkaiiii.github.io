@@ -1,0 +1,1 @@
+import{n as e}from"./pro-pages-MTuOlytN.js";var t=e;export{t as component};
