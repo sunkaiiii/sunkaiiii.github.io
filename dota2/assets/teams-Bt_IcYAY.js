@@ -1,0 +1,1 @@
+import{u as e}from"./pro-pages-DPUdf_4q.js";var t=e;export{t as component};

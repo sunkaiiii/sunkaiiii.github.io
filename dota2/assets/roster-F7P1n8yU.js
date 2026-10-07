@@ -1,0 +1,1 @@
+import{c as e}from"./pro-pages-DPUdf_4q.js";import{Er as t,in as n,jr as r}from"./index-DteIWRjY.js";var i=r();function a(){let{teamId:r}=t({from:`/pro/teams/$teamId`}),a=Number(r);return Number.isSafeInteger(a)&&a>0?(0,i.jsx)(e,{teamId:a}):(0,i.jsx)(n,{error:Error(`战队 ID 必须为正整数`)})}export{a as component};

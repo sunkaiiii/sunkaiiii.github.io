@@ -1,0 +1,1 @@
+import{Cr as e,Rn as t,jr as n}from"./index-DteIWRjY.js";var r=n();function i({accountId:n,displayName:i,className:a,children:o,onClick:s}){return(0,r.jsx)(e,{to:`/players/$accountId/overview`,params:{accountId:String(n)},onClick:s,className:t(`text-accent-text underline-offset-2 hover:underline`,a),children:o??i??`玩家 ${n}`})}export{i as t};
