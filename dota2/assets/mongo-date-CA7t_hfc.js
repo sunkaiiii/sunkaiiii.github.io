@@ -1,0 +1,1 @@
+import{Ar as e,Mr as t,Or as n}from"./index-1FYROhf1.js";var r=n({$date:n({$numberLong:e()})}),i=t([e(),r]);function a(e){if(e===null||typeof e!=`string`&&!/^-?\d+$/.test(e.$date.$numberLong))return null;let t=typeof e==`string`?Date.parse(e):Number(e.$date.$numberLong),n=new Date(t);return Number.isFinite(n.getTime())?n.toISOString():null}export{a as n,i as t};

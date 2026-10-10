@@ -1,0 +1,1 @@
+import{Gt as e,yr as t}from"./index-1FYROhf1.js";var n=t(),r=()=>(0,n.jsx)(e,{withinMain:!0});export{r as component};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{Kn as t,Vn as n,xr as r}from"./index-1FYROhf1.js";var i=e(r(),1);function a(e,r){let a=n(r),o=a.getQueryCache();return i.useSyncExternalStore(i.useCallback(e=>o.subscribe(t.batchCalls(e)),[o]),()=>a.isFetching(e),()=>a.isFetching(e))}export{a as t};
