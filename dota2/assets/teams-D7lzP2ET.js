@@ -1,0 +1,1 @@
+import{u as e}from"./pro-pages-DcKYtURl.js";var t=e;export{t as component};

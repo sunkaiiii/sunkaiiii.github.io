@@ -1,0 +1,1 @@
+import{En as e,dr as t,yr as n}from"./index-Dwo3ua-k.js";var r=n();function i({accountId:n,displayName:i,className:a,children:o,onClick:s}){return(0,r.jsx)(t,{to:`/players/$accountId/overview`,params:{accountId:String(n)},onClick:s,className:e(`text-accent-text underline-offset-2 hover:underline`,a),children:o??i??`玩家 ${n}`})}export{i as t};

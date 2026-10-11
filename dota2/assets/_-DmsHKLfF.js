@@ -1,0 +1,1 @@
+import{Gt as e,yr as t}from"./index-Dwo3ua-k.js";var n=t(),r=()=>(0,n.jsx)(e,{withinMain:!0});export{r as component};
