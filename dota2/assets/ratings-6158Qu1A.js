@@ -1,0 +1,1 @@
+import{i as e}from"./pro-pages-DMYPoLt8.js";var t=e;export{t as component};

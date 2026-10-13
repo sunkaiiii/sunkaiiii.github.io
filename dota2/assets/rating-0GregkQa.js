@@ -1,0 +1,1 @@
+import{s as e}from"./pro-pages-DMYPoLt8.js";import{in as t,mr as n,yr as r}from"./index-6DTZ4-lV.js";var i=r();function a(){let{teamId:r}=n({from:`/pro/teams/$teamId`}),a=Number(r);return Number.isSafeInteger(a)&&a>0?(0,i.jsx)(e,{teamId:a}):(0,i.jsx)(t,{error:Error(`战队 ID 必须为正整数`)})}export{a as component};
