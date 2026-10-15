@@ -1,0 +1,1 @@
+import{ur as e,yr as t}from"./index-UHWE775u.js";var n=t(),r=()=>(0,n.jsx)(e,{});export{r as component};
