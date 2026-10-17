@@ -1,0 +1,1 @@
+import{Tr as e,br as t,ln as n,n as r}from"./index-jAcirhFV.js";import{t as i}from"./pro-team-pages-Opu-j7eW.js";var a=e();function o(){let{teamId:e}=t({from:`/pro/teams/$teamId`}),o=r.useSearch(),s=Number(e);return Number.isSafeInteger(s)&&s>0?(0,a.jsx)(i,{teamId:s,limit:o.limit??50}):(0,a.jsx)(n,{error:Error(`战队 ID 必须为正整数`)})}export{o as component};

@@ -1,0 +1,1 @@
+import{Tr as e,Xt as t}from"./index-jAcirhFV.js";var n=e(),r=()=>(0,n.jsx)(t,{withinMain:!0});export{r as component};

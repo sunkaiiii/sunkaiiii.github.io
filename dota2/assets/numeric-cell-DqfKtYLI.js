@@ -1,0 +1,1 @@
+import{Mn as e,Tr as t}from"./index-jAcirhFV.js";var n=t();function r({children:e}){return(0,n.jsx)(`span`,{className:`block text-right`,children:e})}function i({children:t,className:r}){return(0,n.jsx)(`span`,{className:e(`flex justify-end text-right tabular-nums`,r),children:t})}export{i as n,r as t};
