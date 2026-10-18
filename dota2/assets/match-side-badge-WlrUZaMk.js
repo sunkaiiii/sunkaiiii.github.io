@@ -1,0 +1,1 @@
+import{n as e,t}from"./badge-BHRbfMGQ.js";import{Tr as n}from"./index-BsbR7j6j.js";import{v as r}from"./match-labels-6cupiBxW.js";var i=n();function a({side:n}){return n===`radiant`?(0,i.jsx)(e,{isRadiant:!0}):n===`dire`?(0,i.jsx)(e,{isRadiant:!1}):n==null||n===``||n===`unknown`?(0,i.jsx)(e,{isRadiant:null}):(0,i.jsx)(t,{tone:`neutral`,children:r(n)})}export{a as t};
