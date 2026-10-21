@@ -1,0 +1,1 @@
+import{Er as e,hn as t,jr as n}from"./index-BCAWvIHp.js";import{t as r}from"./pro-directory-pages-CfImIpcf.js";var i=n();function a(){let{leagueId:n}=e({from:`/pro/leagues/$leagueId`}),a=Number(n);return Number.isSafeInteger(a)&&a>0?(0,i.jsx)(r,{leagueId:a}):(0,i.jsx)(t,{error:Error(`联赛 ID 必须为正整数`)})}export{a as component};

@@ -1,0 +1,1 @@
+import{Br as e,Hr as t,Wr as n}from"./index-BCAWvIHp.js";var r=e({$date:e({$numberLong:t()})}),i=n([t(),r]);function a(e){if(e===null||typeof e!=`string`&&!/^-?\d+$/.test(e.$date.$numberLong))return null;let t=typeof e==`string`?Date.parse(e):Number(e.$date.$numberLong),n=new Date(t);return Number.isFinite(n.getTime())?n.toISOString():null}export{a as n,i as t};

@@ -1,0 +1,1 @@
+function e(e){return{d4_product_source_not_approved:`公开统计来源尚未获D4批准，结果不可用。`,same_scope_baseline_unavailable:`同一Patch、段位和模式缺少可用基础胜率。`,approved_aggregate_source_invalid_or_missing:`批准来源原件缺失、损坏或参数不匹配，结果不可用。`,exact_patch_scope_unavailable:`精确Patch范围不可用。`,insufficient_matchup_sample:`当前范围的对位样本不足。`}[e]??`当前批准来源不可用，保留未知。`}export{e as t};
