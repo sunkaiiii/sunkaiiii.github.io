@@ -1,0 +1,1 @@
+import{Er as e,hn as t,jr as n,n as r}from"./index-oCI4kk_P.js";import{t as i}from"./pro-team-pages-BHk_SMVs.js";var a=n();function o(){let{teamId:n}=e({from:`/pro/teams/$teamId`}),o=r.useSearch(),s=Number(n);return Number.isSafeInteger(s)&&s>0?(0,a.jsx)(i,{teamId:s,limit:o.limit??50}):(0,a.jsx)(t,{error:Error(`战队 ID 必须为正整数`)})}export{o as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./draft-assistant-page-cY2Sk7Kl.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{Rn as e,jr as t}from"./index-oCI4kk_P.js";var n=t();function r({children:e}){return(0,n.jsx)(`span`,{className:`block text-right`,children:e})}function i({children:t,className:r}){return(0,n.jsx)(`span`,{className:e(`flex justify-end text-right tabular-nums`,r),children:t})}export{i as n,r as t};
