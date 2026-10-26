@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{Qn as t,Zn as n,li as r}from"./index-WoOclTh7.js";var i=e(r(),1);function a(){let[e,r]=(0,i.useState)(void 0);return(0,i.useEffect)(()=>{let e=!1;return Promise.resolve().then(()=>t()).then(e=>e===null?null:n(e)).then(t=>{e||r(t)}).catch(()=>{e||r(null)}),()=>{e=!0}},[]),e}export{a as t};

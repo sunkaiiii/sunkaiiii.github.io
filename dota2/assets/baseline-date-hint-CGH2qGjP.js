@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{li as t,si as n}from"./index-WoOclTh7.js";import{t as r}from"./source-window-DUOIGgZJ.js";var i=e(t(),1),a=n();function o({date:e,children:t}){let n=r(e),o=(0,i.useId)();return(0,a.jsxs)(`span`,{title:n,role:`group`,"aria-describedby":o,children:[t,(0,a.jsx)(`span`,{id:o,hidden:!0,children:n})]})}export{o as t};

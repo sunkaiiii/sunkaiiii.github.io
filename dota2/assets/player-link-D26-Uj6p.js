@@ -1,0 +1,1 @@
+import{$r as e,fr as t,si as n}from"./index-WoOclTh7.js";var r=n();function i({accountId:n,displayName:i,className:a,children:o,onClick:s}){return(0,r.jsx)(e,{to:`/players/$accountId/overview`,params:{accountId:String(n)},onClick:s,className:t(`entity-link`,a),children:o??i??`玩家 ${n}`})}export{i as t};

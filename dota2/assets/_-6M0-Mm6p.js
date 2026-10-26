@@ -1,0 +1,1 @@
+import{_n as e,si as t}from"./index-WoOclTh7.js";var n=t(),r=()=>(0,n.jsx)(e,{withinMain:!0});export{r as component};

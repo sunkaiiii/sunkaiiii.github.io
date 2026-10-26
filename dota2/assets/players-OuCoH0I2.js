@@ -1,0 +1,1 @@
+import{Qr as e,si as t}from"./index-WoOclTh7.js";var n=t(),r=()=>(0,n.jsx)(e,{});export{r as component};

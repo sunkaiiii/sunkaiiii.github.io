@@ -1,0 +1,1 @@
+import{fr as e,si as t}from"./index-WoOclTh7.js";var n=t();function r({children:e}){return(0,n.jsx)(`span`,{className:`block text-right`,children:e})}function i({children:t,className:r}){return(0,n.jsx)(`span`,{className:e(`flex justify-end text-right tabular-nums`,r),children:t})}export{i as n,r as t};

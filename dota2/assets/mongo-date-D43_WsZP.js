@@ -1,0 +1,1 @@
+import{_i as e,xi as t,yi as n}from"./index-WoOclTh7.js";var r=e({$date:e({$numberLong:n()})}),i=t([n(),r]);function a(e){if(e===null||typeof e!=`string`&&!/^-?\d+$/.test(e.$date.$numberLong))return null;let t=typeof e==`string`?Date.parse(e):Number(e.$date.$numberLong),n=new Date(t);return Number.isFinite(n.getTime())?n.toISOString():null}export{a as n,i as t};

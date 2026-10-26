@@ -1,0 +1,1 @@
+import{Or as e}from"./index-WoOclTh7.js";var t=e(`chevron-up`,[[`path`,{d:`m18 15-6-6-6 6`,key:`153udz`}]]);export{t};
