@@ -1,0 +1,1 @@
+import{Si as e,bi as t,wi as n}from"./index-BLk7NwRj.js";var r=t({$date:t({$numberLong:e()})}),i=n([e(),r]);function a(e){if(e===null||typeof e!=`string`&&!/^-?\d+$/.test(e.$date.$numberLong))return null;let t=typeof e==`string`?Date.parse(e):Number(e.$date.$numberLong),n=new Date(t);return Number.isFinite(n.getTime())?n.toISOString():null}export{a as n,i as t};

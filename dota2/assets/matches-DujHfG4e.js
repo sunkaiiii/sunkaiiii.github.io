@@ -1,0 +1,1 @@
+import{En as e,ai as t,t as n,ui as r}from"./index-BLk7NwRj.js";import{t as i}from"./pro-team-pages-vFu_aCxb.js";var a=r();function o(){let{teamId:r}=t({from:`/pro/teams/$teamId`}),o=n.useSearch(),s=Number(r);return Number.isSafeInteger(s)&&s>0?(0,a.jsx)(i,{teamId:s,limit:o.limit??50}):(0,a.jsx)(e,{error:Error(`战队 ID 必须为正整数`)})}export{o as component};

@@ -1,0 +1,1 @@
+import{bn as e,ui as t}from"./index-BLk7NwRj.js";var n=t(),r=()=>(0,n.jsx)(e,{withinMain:!0});export{r as component};
