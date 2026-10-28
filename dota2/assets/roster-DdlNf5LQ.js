@@ -1,0 +1,1 @@
+import{En as e,_i as t,fi as n}from"./index-B2HANGFS.js";import{i as r}from"./pro-team-pages-CXPuQWBo.js";var i=t();function a(){let{teamId:t}=n({from:`/pro/teams/$teamId`}),a=Number(t);return Number.isSafeInteger(a)&&a>0?(0,i.jsx)(r,{teamId:a}):(0,i.jsx)(e,{error:Error(`战队 ID 必须为正整数`)})}export{a as component};
