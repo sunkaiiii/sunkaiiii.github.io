@@ -1,0 +1,1 @@
+import{Sr as e,_i as t,li as n}from"./index-y0D97cov.js";var r=t();function i({accountId:t,displayName:i,className:a,children:o,onClick:s}){return(0,r.jsx)(n,{to:`/players/$accountId/overview`,params:{accountId:String(t)},onClick:s,className:e(`entity-link`,a),children:o??i??`玩家 ${t}`})}export{i as t};
