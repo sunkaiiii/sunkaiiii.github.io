@@ -1,0 +1,1 @@
+import{St as e,rr as t}from"./index-CmBgyeAP.js";var n=t(),r=()=>(0,n.jsx)(e,{withinMain:!0});export{r as component};
