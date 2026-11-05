@@ -1,0 +1,1 @@
+import{Ft as e,Ht as t,rr as n,un as r}from"./index-BhEBUAHz.js";var i=n();function a(e){return t(e)&&e.kind===`http`&&e.status===404}function o({title:t,reason:n,backTo:a,backLabel:o}){return(0,i.jsx)(`div`,{role:`alert`,children:(0,i.jsx)(e,{title:t,reason:n,action:(0,i.jsx)(r,{to:a,variant:`secondary`,size:`sm`,children:o})})})}export{a as n,o as t};
