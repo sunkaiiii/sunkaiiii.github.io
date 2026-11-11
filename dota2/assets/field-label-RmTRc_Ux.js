@@ -1,1 +1,0 @@
-import{dn as e,rr as t}from"./index-CmBgyeAP.js";var n=t();function r({label:t,children:r,className:i}){return(0,n.jsxs)(`div`,{className:e(`flex min-w-0 flex-col gap-1`,i),children:[(0,n.jsx)(`span`,{"aria-hidden":`true`,className:`text-xs text-text-muted`,children:t}),r]})}export{r as t};

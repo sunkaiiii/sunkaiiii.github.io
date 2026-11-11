@@ -1,1 +1,0 @@
-function e(e){return e===`多来源数据可用，置信度较高`?`多来源数据可用，来源覆盖较高`:e===`可用数据来源较少，置信度受限`?`可用数据来源较少，来源覆盖受限`:e}function t(e){return e===null||!Number.isFinite(e)?`—`:`${e>=.8?`高`:e>=.5?`中`:`低`}（${(e*100).toFixed(0)}%）`}export{e as n,t};

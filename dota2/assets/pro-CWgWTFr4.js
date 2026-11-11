@@ -1,1 +1,0 @@
-import{_i as e,ci as t}from"./index-B2HANGFS.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

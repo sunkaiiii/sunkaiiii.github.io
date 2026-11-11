@@ -1,1 +1,0 @@
-import{D as e}from"./index-BHMMnC4F.js";var t=e;export{t as component};
